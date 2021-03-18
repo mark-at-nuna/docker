@@ -1,10 +1,3 @@
-
-# Portland Metro Area
-
-This project is configured to download/prepare/build a complete Pelias installation for Portland, Oregon.
-
-It is intended as an example for other projects, feel free to copy->paste these files to a new project directory to kick-start your own project.
-
 # Setup
 
 Please refer to the instructions at https://github.com/pelias/docker in order to install and configure your docker environment.
